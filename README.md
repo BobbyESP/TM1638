@@ -7,7 +7,7 @@ A comprehensive C library for controlling TM1638-based display modules using STM
 This library provides a complete interface for the **TM1638** LED controller chip, commonly found in affordable display modules. The TM1638 module typically features:
 
 - **8× Seven-Segment Displays** (arranged as 2 groups of 4 digits)
-- **8× Dual-Color LEDs** (red)
+- **8× Red-Color LEDs** (red)
 - **8× Push Buttons** (S1-S8)
 - **Simple 3-wire interface** (CLK, DIO, STB)
 
