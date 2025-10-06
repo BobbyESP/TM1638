@@ -174,7 +174,7 @@ void tm1638_set_brightness(TM1638 *tm, uint8_t brightness);
 `A B C E F H I J L O P S U`
 
 ### Lowercase Letters
-`a b c d h i n o r t u y`
+`a b c d f g h i n o r t u y`
 
 ### Symbols
 `space _ - .`
