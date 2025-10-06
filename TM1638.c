@@ -386,8 +386,10 @@ static uint8_t char_to_segment_code(char c) {
         case 'A': return 0x77;
         case 'B': return 0x7f; // Same as '8'
         case 'C': return 0x39;
+        case 'D': return 0x3f;
         case 'E': return 0x79;
         case 'F': return 0x71;
+        case 'G': return 0x7d;
         case 'H': return 0x76;
         case 'I': return 0x06; // Same as '1'
         case 'J': return 0x0e;
@@ -401,6 +403,8 @@ static uint8_t char_to_segment_code(char c) {
         case 'b': return 0x7c;
         case 'c': return 0x58;
         case 'd': return 0x5e;
+        case 'f': return 0x71;
+        case 'g': return 0x6f;
         case 'h': return 0x74;
         case 'i': return 0x04;
         case 'n': return 0x54;
