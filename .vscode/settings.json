@@ -1,11 +1,6 @@
 {
     "files.associations": {
-        "string.h": "c",
-        "tm1638.h": "c",
-        "stdbool.h": "c",
-        "math.h": "c",
-        "stm32f4xx_hal.h": "c",
-        "stm32f4xx_hal_rcc.h": "c",
-        "stm32f4xx_hal_def.h": "c"
+        "*.c": "c",
+        "*.h": "c"
     }
 }
