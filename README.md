@@ -280,7 +280,7 @@ Contributions, issues, and feature requests are welcome!
 - [TM1638 Datasheet](https://futuranet.it/futurashop/image/catalog/data/Download/TM1638_V1.3_EN.pdf)
 - STM32 HAL Documentation
 
-> This library is a rewritten and improved version of the one originally provided to me during my time at university. For privacy and licensing reasons, I will not be sharing the original file.
+> This library is a rewritten and improved version of the one originally provided to me during my time at university (Universidade de Vigo | UVigo). For privacy and licensing reasons, I will not be sharing the original file.
 
 ---
 
